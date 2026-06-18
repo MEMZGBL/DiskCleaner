@@ -30,7 +30,7 @@ Open PowerShell in this directory and run:
 
 ```powershell
 powershell -ExecutionPolicy Bypass -File .\build.ps1
-
+```
 # 磁盘清理
 
 **系统**：WIN x86
@@ -63,3 +63,4 @@ powershell -ExecutionPolicy Bypass -File .\build.ps1
 
 ```powershell
 powershell -ExecutionPolicy Bypass -File .\build.ps1
+```
